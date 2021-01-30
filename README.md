@@ -11,7 +11,7 @@ I make elegantly professional **🌐 Websites and  📱 Hybrid Development** for
 
   <details>
     <summary>Some other achievements about me~e~e</summary>
-  
+    <br>
     <p>- 🔭 I’m currently working on ...</p>
     <p>- 🌱 I’m currently learning ...</p>
     <p>- 👯 I’m looking to collaborate on ...</p>
