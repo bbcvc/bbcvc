@@ -8,6 +8,8 @@ I make elegantly professional **🌐 Websites and  📱 Hybrid Development** for
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
 * 💻   With 2 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
+* 📫   How to reach me: [📡twitter](https://twitter.com/Eric55718370)、[🍻bilibli](https://space.bilibili.com/87795515)、[📸instagram](https://www.instagram.com/beetofday/)
+
 <!--
   <details>
     <summary>Some other achievements about me~e~e</summary>
