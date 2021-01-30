@@ -8,7 +8,7 @@ I make elegantly professional **🌐 Websites and  📱 Hybrid Development** for
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
 * 💻   With 2 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
-
+<!--
   <details>
     <summary>Some other achievements about me~e~e</summary>
     <br>
@@ -17,7 +17,7 @@ I make elegantly professional **🌐 Websites and  📱 Hybrid Development** for
     <p>- 👯 I’m looking to collaborate on ...</p>
     <p>- 🤔 I’m looking for help with ...</p>
   </details>
-  
+ -->
 <!--
 **bbcvc/bbcvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
