@@ -1,7 +1,5 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**bbcvc/bbcvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I make elegantly professional **🌐 Websites and  📱 Hybrid Development** for a living and also **Write some blogs**. 🌈    
 
@@ -10,6 +8,10 @@ I make elegantly professional **🌐 Websites and  📱 Hybrid Development** for
 * 📚   Reading more about Apple, Harry Potter and how the computer works.
 * 💻   With 2 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
+
+<!--
+**bbcvc/bbcvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
