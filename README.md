@@ -3,6 +3,14 @@
 <!--
 **bbcvc/bbcvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I make elegantly professional **🌐 Websites and  📱 Hybrid Development** for a living and also **Write some blogs**. 🌈    
+
+* 🧐   Interested in full stack. Recent focus on backend.
+* 🌱   Currently learning Math & Philosophy.
+* 📚   Reading more about Apple, Harry Potter and how the computer works.
+* 💻   With 2 years' development working experience.
+* ⛵   Encouraging people for open source collaborations.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
