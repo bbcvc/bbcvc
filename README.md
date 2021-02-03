@@ -5,7 +5,6 @@ I make elegantly professional **🌐 Websites and  📱 Hybrid Development** for
 
 * 🧐   Interested in full stack. Recent focus on backend.
 * 🌱   Currently learning Math & Philosophy.
-* 📚   Reading more about Apple, Harry Potter and how the computer works.
 * 💻   With 2 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
 * 📫   How to reach me: [📡twitter](https://twitter.com/Eric55718370)、[🍻bilibli](https://space.bilibili.com/87795515)、[📸instagram](https://www.instagram.com/beetofday/)
