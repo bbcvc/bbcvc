@@ -3,7 +3,7 @@
 <img align="center" src="https://github.com/halfrost/halfrost/raw/master/icons/header_.png" />
 
 I make elegantly professional **🌐 Websites and  📱 Hybrid Development** for a living and also **Write some blogs**. 🌈    
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bbcvc" width="400" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=bbcvc" width="400" /> -->
 
 * 🧐   Interested in full stack. Recent focus on backend.
 * 🌱   Currently learning Economics & Philosophy.
