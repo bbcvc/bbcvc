@@ -1,6 +1,5 @@
 # Hi there 👋
 
-<!-- <img align="center" src="https://github.com/halfrost/halfrost/raw/master/icons/header_.png" /> -->
 
 I make elegantly professional **🌐 Websites and  📱 Hybrid Development** for a living and also **Write some blogs**.   
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=bbcvc&show_icons=true" width="400" />
