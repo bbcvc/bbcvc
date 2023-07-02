@@ -2,7 +2,6 @@
 
 
 I make elegantly professional **🌐 Websites and  📱 Hybrid Development** for a living and also **Write some blogs**.   
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bbcvc&show_icons=true" width="400" />
 
 * 🧐   Interested in full stack. Recent focus on backend.
 * 🌱   Currently learning Economics & Philosophy.
@@ -49,6 +48,7 @@ src="https://img.shields.io/badge/Tailwindcss-%2338b2ac.svg?logo=tailwind-css&lo
 
 
 <!--
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=bbcvc&show_icons=true" width="400" />
   <details>
     <summary>Some other achievements about me~e~e</summary>
     <br>
