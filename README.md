@@ -33,7 +33,7 @@ src="https://img.shields.io/badge/Tailwindcss-%2338b2ac.svg?logo=tailwind-css&lo
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Docker-%23000000.svg?logo=Docker&logoColor=blue&style=flat-square" alt="docker" /> <img src="https://img.shields.io/badge/Github-%23000000.svg?logo=github&logoColor=white&style=flat-square" alt="docker" /> 
+<img src="https://img.shields.io/badge/Visual%20Studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Docker-%23000000.svg?logo=Docker&logoColor=blue&style=flat-square" alt="docker" /> <img src="https://img.shields.io/badge/Github-%23000000.svg?logo=github&logoColor=white&style=flat-square" alt="docker" /> 
 
 <img src="https://img.shields.io/badge/Figma-%23f24e1e.svg?logo=Figma&logoColor=white&style=flat-square" alt="Figma" /> <img src="https://img.shields.io/badge/Photoshop-%2331a8ff.svg?logo=adobe-photoshop&logoColor=white&style=flat-square" alt="Photoshop" />
 
