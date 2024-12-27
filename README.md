@@ -8,6 +8,20 @@ I make elegantly professional **🌐 Websites and  📱 Hybrid Development** for
 * 💻   With 4 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
 * 📫   How to reach me: [📸instagram](https://www.instagram.com/beetofday/)
+<!--
+---
+### FOLLOW ME
+blog: [https://cl96.top](https://cl96.top)  
+notes: [https://notes.cl96.top/](https://notes.cl96.top/)  
+weekly: [https://weekly.cl96.top](https://weekly.cl96.top)  
+strackOverflow：[https://stackoverflow.com/users/13244447/eric-xing](https://stackoverflow.com/users/13244447/eric-xing)  
+medium: [https://medium.com/@chenglongxing233](https://medium.com/@chenglongxing233)  
+juejin: [https://juejin.cn/user/747323635804350](https://juejin.cn/user/747323635804350)  
+
+bilibili:  
+xiaohongshu:  
+jike:  
+ -->
 
 ### Technology Stack
 
