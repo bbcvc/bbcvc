@@ -2,6 +2,7 @@
 
 
 I make elegantly professional **🌐 Websites and  📱 Hybrid Development** for a living and also [**Write some blogs**](https://cl96.top).   
+notes: https://notes.cl96.top/  
 
 * 🧐   Interested in full stack. Recent focus on backend.
 * 🌱   Currently learning Economics & Philosophy.
