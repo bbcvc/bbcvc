@@ -6,7 +6,7 @@ notes: https://notes.cl96.top/
 
 * 🧐   Interested in full stack. Recent focus on backend.
 * 🌱   Currently learning Economics & Philosophy.
-* 💻   With 4 years' development working experience.
+* 💻   With 6 years' development working experience.
 * ⛵   Encouraging people for open source collaborations.
 * 📫   How to reach me: [📸instagram](https://www.instagram.com/beetofday/)
 <!--
